@@ -99,7 +99,4 @@ class MainActivity : AppCompatActivity() {
         supportFragmentManager.beginTransaction().replace(binding.layoutFragment.id, accountFragment).commit()
 
     }
-
-
-
 }
