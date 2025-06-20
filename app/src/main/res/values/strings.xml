@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ProductApp</string>
+    <string name="home">Home</string>
+    <string name="product">Product</string>
+    <string name="category">Category</string>
+    <string name="search">Search</string>
+    <string name="cart">Cart</string>
+    <string name="account">Account</string>
+    <string name="price">Price</string>
+
+    <string name="specs">Specifications</string>
+    <string name="checkout">Checkout</string>
+    <string name="search_not_found">Search Not Found</string>
+    <string name="item_not_found">item not found!</string>
+
+
+    <string name="total_price">Total Price</string>
+    <string name="qty">0</string>
+    <string name="description">False</string>
+    <string name="price_todo">$199</string>
+</resources>
